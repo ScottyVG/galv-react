@@ -1,11 +1,9 @@
-# 🎥 Object Spread / Rest
+# Object Spread / Rest
 
 Objectives
 - Copy Objects with Object.assign
 - Copy Objects with Spread and Rest
 - Remove Properties with Destructuring / Rest
-
-<iframe src="https://player.vimeo.com/video/229205235?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 By the end of this lesson you will:
 

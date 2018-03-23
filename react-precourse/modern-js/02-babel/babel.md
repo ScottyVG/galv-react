@@ -1,10 +1,8 @@
-# 🎥 Babel
+# Babel
 
 Objectives
 - Compile and Run JavaScript Files
 - Install and Configure Babel Plugins
-
-<iframe src="https://player.vimeo.com/video/229205187?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Babel](https://babeljs.io/) is a JavaScript compiler that has plugins that allow your to write next-generation JavaScript, and have it work on all browsers today.
 

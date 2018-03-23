@@ -4,4 +4,6 @@ const user = {
 	admin: true,
 }
 
+user.username = 'peggy'
+
 console.log('user', user)
