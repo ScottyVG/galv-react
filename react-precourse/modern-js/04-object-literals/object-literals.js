@@ -8,16 +8,16 @@
 // users[id] = 'eliza'
 
 // You can use computed properties in Object literals, like so:
-// const id = 34
+const id = 34
 
-// const users = {
-// 	34: 'eliza'
-// }
+const users = {
+	34: 'eliza'
+}
 
-// const newUsers = {
-// 	...users,
-// 	[id]: 'peggy'
-// }
+const newUsers = {
+	...users,
+	[id]: 'peggy'
+}
 
 /* Shorthand Property Names */
 // Instead of this:
