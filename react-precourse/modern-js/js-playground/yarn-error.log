@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js run babel-node example.js
+  /usr/local/Cellar/node/9.8.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js run babel-node example
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -1323,7 +1323,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c /Users/scottvg/dev/galv-react/react-precourse/modern-js/js-playground/node_modules/.bin/babel-node example.js
+  Arguments: -c /Users/scottvg/dev/galv-react/react-precourse/modern-js/js-playground/node_modules/.bin/babel-node example
   Directory: /Users/scottvg/dev/galv-react/react-precourse/modern-js/js-playground
   Output:
   
