@@ -42,3 +42,14 @@ const people = [
 const names = people.map(person => person.name)
 
 console.log(canEdit(user))
+
+
+const name = 'Scotty'
+
+// const createProject = (name) => {
+// 	return name
+// }
+
+const createProject = (name) => ({name})
+
+console.log(createProject(name))
